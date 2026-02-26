@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+    <remote
+        name="gitlab"
+        fetch="https://gitlab.com/" />
   
   <!-- Device tree for Motorola G42 hawao (your fork) -->
   <project
       path="device/motorola/hawao"
       name="shipukacapri/android_device_motorola_hawao"
       remote="github"
-      revision="evo-qp2" />
+      revision="inf-qp2" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
