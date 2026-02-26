@@ -7,7 +7,7 @@
       path="device/motorola/hawao"
       name="shipukacapri/android_device_motorola_hawao"
       remote="github"
-      revision="evo-qp2" />
+      revision="derp-qp2" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
